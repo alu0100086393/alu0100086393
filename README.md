@@ -1,10 +1,10 @@
-# Bienvenido a mi perfil alu0100086393
+# Bienvenido a mi perfil
 
 
 
 <!-- **alu0100086393/alu0100086393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+These are some of my preferences:
 
 - 🔭 I’m currently working on Helthcare
 - 🌱 I’m currently learning how to become in teacher
